@@ -1,6 +1,6 @@
 <div class="video-player-wrapper">
-  <h2>Watch Video by Dream Churners </h2>
   <vg-player>
+<!--
     <vg-overlay-play></vg-overlay-play>
     <vg-buffering></vg-buffering>
 
@@ -26,8 +26,9 @@
 
       <vg-fullscreen></vg-fullscreen>
     </vg-controls>
+-->
 
-    <video [vgMedia]="media" #media id="singleVideo" preload="auto" crossorigin onloadedmetadata="this.muted=true" autoplay>
+    <video [vgMedia]="media" #media id="singleVideo" preload="auto" crossorigin onloadedmetadata="this.muted=true" fullscreen="true" autoplay>
        <source src="../../assets/dc_intro.mp4" type="video/mp4"> 
     </video>
 </vg-player>
