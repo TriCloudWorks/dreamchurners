@@ -277,9 +277,8 @@
 
             <!-- Main heading -->
             <h3 class="h3 mb-3">We are the DreamChurners</h3>
-            <p>This template is created with Material Design for Bootstrap (
-              <strong>MDB</strong> ) framework.</p>
-            <p>Read details below to learn more about MDB.</p>
+            <p>This website is designed to provide you the best of the best services in media and entertainment - Best wishes from 
+              <strong>DreamChurners</strong>.</p>
             <!-- Main heading -->
 
             <hr>
