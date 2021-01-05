@@ -39,6 +39,7 @@
 
       <!-- Brand -->
       <a class="navbar-brand" href="https://mdbootstrap.com/docs/jquery/" target="_blank">
+        <img src="./assets/dc-logo-mini.jpg" alt="DreamChurners">
         <strong>DreamChurners</strong>
       </a>
 
