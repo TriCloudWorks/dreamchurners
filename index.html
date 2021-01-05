@@ -100,11 +100,13 @@
   <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
 
     <!--Indicators-->
+    <!--
     <ol class="carousel-indicators">
       <li data-target="#carousel-example-1z" data-slide-to="0" class="active"></li>
       <li data-target="#carousel-example-1z" data-slide-to="1"></li>
       <li data-target="#carousel-example-1z" data-slide-to="2"></li>
     </ol>
+  -->
     <!--/.Indicators-->
 
     <!--Slides-->
@@ -153,16 +155,22 @@
       <!--/First slide-->
 
       <!--Second slide-->
+      <!--
       <div class="carousel-item">
         <div class="view">
+        -->
 
           <!--Video source-->
+          <!--
           <video class="video-intro" autoplay loop muted>
             <source src="./assets/dc_intro.mp4" type="video/mp4">
           </video>
+        -->
 
           <!-- Mask & flexbox options-->
+          <!--
           <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
+          -->
 
             <!-- Content 
             <div class="text-center white-text mx-5 wow fadeIn">
@@ -186,25 +194,31 @@
               </a>
             </div>
             Content -->
-        
+        <!--
           </div>
+        -->
           <!-- Mask & flexbox options-->
-
+        <!--
         </div>
       </div>
+      -->
       <!--/Second slide-->
 
       <!--Third slide-->
-      <div class="carousel-item">
+      <!--
+        <div class="carousel-item">
         <div class="view">
-
+        -->
           <!--Video source-->
+          <!--
           <video class="video-intro" autoplay loop muted>
             <source src="./assets/dc_intro.mp4" type="video/mp4">
           </video>
-
+          -->
           <!-- Mask & flexbox options-->
+          <!--
           <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
+          -->
 
             <!-- Content 
             <div class="text-center white-text mx-5 wow fadeIn">
@@ -228,12 +242,14 @@
               </a>
             </div>
              Content -->
-
+            <!--
           </div>
+           -->
           <!-- Mask & flexbox options-->
-
+           <!--
         </div>
       </div>
+      -->
       <!--/Third slide-->
 
     </div>
@@ -279,6 +295,7 @@
             <h3 class="h3 mb-3">We are the DreamChurners</h3>
             <p>This website is designed to provide you the best of the best services in media and entertainment - Best wishes from 
               <strong>DreamChurners</strong>.</p>
+            <p>Read details below to learn more about DreamChurners.</p>
             <!-- Main heading -->
 
             <hr>
